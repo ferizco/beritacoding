@@ -17,9 +17,11 @@
 		<div class="post-body">
 			<?= $article->content ?>
 		</div>
+		
 	</article>
 	
 	<?php $this->load->view('_partials/footer.php'); ?>
 </body>
 
 </html>
+
